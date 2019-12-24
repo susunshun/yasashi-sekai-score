@@ -10,4 +10,4 @@ Channelのコメントに対してネガポジ分析を掛けて、ポジティ�
 # .env
 SLACK_TOKEN="your token"
 SLACK_CHANNEL_ID="your channel id"
-``
+```
