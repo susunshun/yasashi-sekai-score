@@ -11,7 +11,7 @@ matplotlib==3.1.2
 mecab-python3==0.996.2
 multidict==4.7.2
 neologdn==0.4
-numpy==1.18.0
+numpy==1.22.0
 oseti==0.2
 pyparsing==2.4.5
 python-dateutil==2.8.1
